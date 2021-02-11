@@ -1,10 +1,7 @@
 # stackoverflow-clone
 
-
-
-</div>
-
-<br>
+#Video Tutorial
+[https://drive.google.com/file/d/18AF6QQmXStnnHIsqHXPV6Y0oRF81nTuH/view?usp=sharing]
 
 ## UI
 
