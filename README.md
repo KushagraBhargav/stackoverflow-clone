@@ -1,8 +1,6 @@
 # stackoverflow-clone
 
-<br>
 
-![000](https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png)
 
 </div>
 
