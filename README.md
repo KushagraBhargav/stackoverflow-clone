@@ -2,7 +2,7 @@
 
 <br>
 
-![000](https://icon2.cleanpng.com/20180616/ibu/kisspng-stack-overflow-stack-exchange-computer-icons-progr-reen-5b25a9c1deea65.7379467415291949459131.jpg)
+![000](https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png)
 
 </div>
 
@@ -12,23 +12,23 @@
 
 ## Home
 
-![Home](Screenshots/home.png)
+![Home](screenshots/home.png)
 
 ## Login
 
-![New Tweet](Screenshots/login.png)
+![New Tweet](screenshots/login.png)
 
 ## Signup
 
-![New Tweet](Screenshots/signup.png)
+![New Tweet](screenshots/signup.png)
 
 ## Questions
 
-![Tweet](Screenshots/questions.png)
+![Tweet](screenshots/questions.png)
 
 ## Answering Questions
 
-![Tweet](Screenshots/answers.png)
+![Tweet](screenshots/answers.png)
 
 ## :rocket: Tecnologias
 
