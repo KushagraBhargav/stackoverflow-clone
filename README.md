@@ -25,6 +25,16 @@
 
 ![Tweet](screenshots/answers.png)
 
+## Functionality
+
+<ul>
+  <li>login</li>
+  <li>SignUp</li>
+  <li>Ask Question</li>
+  <li>Answer Questions</li>
+</ul>
+
+
 ## :rocket: Tecnologias
 
 <ul>
@@ -40,6 +50,8 @@
   <li>Bcrypt</li>
   <li>body-parser</li>
 </ul>
+
+
 
 Quicky setup:
 
